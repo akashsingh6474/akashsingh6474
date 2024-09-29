@@ -1,17 +1,15 @@
-
-```markdown
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvZ7rT5gGmHj8/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/hvZ7rT5gGmHj8/giphy.gif" width="60" />
   Hi, I'm Akash Singh
-  <img src="https://media.giphy.com/media/hvZ7rT5gGmHj8/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/hvZ7rT5gGmHj8/giphy.gif" width="60" />
 </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7A400&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+Enthusiast;Automation+Advocate" alt="Typing SVG" />
 </p>
 
-<!-- Wave Animation -->
+<!-- Animated Wave -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/akshat46/FlyingFox/master/assets/wave.svg" alt="wave" width="100%" />
 </p>
@@ -93,4 +91,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/akshat46/FlyingFox/master/assets/wave.svg" alt="wave" width="100%" />
 </p>
-```
