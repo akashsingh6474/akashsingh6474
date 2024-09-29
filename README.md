@@ -1,3 +1,6 @@
+Here’s a refined version of your README with professional animations and a more polished layout. This version maintains clarity while incorporating animations that are visually appealing and suitable for a professional context.
+
+```markdown
 <!-- Animated Header -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvZ7rT5gGmHj8/giphy.gif" width="50" />
@@ -91,3 +94,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/akshat46/FlyingFox/master/assets/wave.svg" alt="wave" width="100%" />
 </p>
+```
