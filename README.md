@@ -1,6 +1,6 @@
 <!-- Header with Typing Animation -->
 <h1 align="center">
-  Hi, I'm Akash Singh 👋
+  Hi, I'm Akash Singh 😃
 </h1>
 
 <p align="center">
