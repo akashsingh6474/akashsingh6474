@@ -1,5 +1,3 @@
-
-```markdown
 <!-- Header with Typing Animation -->
 <h1 align="center">
   Hi, I'm Akash Singh 👋
@@ -43,14 +41,11 @@
   <a href="https://kubernetes.io/" target="_blank">
     <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes" width="90"/>
   </a>
-  <a href="https://www.jenkins.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins" width="90"/>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" width="90"/>
   </a>
   <a href="https://www.terraform.io/" target="_blank">
     <img src="https://img.shields.io/badge/Terraform-623ce4?style=for-the-badge&logo=terraform&logoColor=white" alt="terraform" width="90"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" width="90"/>
   </a>
   <a href="https://grafana.com/" target="_blank">
     <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="grafana" width="90"/>
@@ -105,4 +100,3 @@
 
 <!-- Closing Wave SVG -->
 <img src="https://raw.githubusercontent.com/akshat46/FlyingFox/master/assets/wave.svg" alt="wave" width="100%" />
-```
