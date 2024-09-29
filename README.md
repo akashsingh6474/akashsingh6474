@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvZ7rT5gGmHj8/giphy.gif" width="50" /> 
+  <img src="https://media.giphy.com/media/hvZ7rT5gGmHj8/giphy.gif" width="50" />
   Hi, I'm Akash Singh
   <img src="https://media.giphy.com/media/hvZ7rT5gGmHj8/giphy.gif" width="50" />
 </h1>
@@ -68,9 +68,9 @@
 </p>
 
 <!-- Animated Skills Section -->
-<div align="center">
+<p align="center">
   <img src="https://media.giphy.com/media/XkM2rAlwB3A1A/giphy.gif" width="200" />
-</div>
+</p>
 
 <!-- Achievements Section -->
 <h2 align="center">🏆 Achievements</h2>
