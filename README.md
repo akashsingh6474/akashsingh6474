@@ -16,8 +16,7 @@
 - 💼 I'm a **DevOps Engineer** working on **Kubernetes**, **Jenkins**, and **CI/CD** pipelines!
 - 🔧 Passionate about **Automation**, **Cloud Technologies**, and **SRE Practices**.
 - 🌱 Always learning new technologies like **Terraform**, **Prometheus**, and **Grafana** to enhance infrastructure management.
-- 📚 Pursuing **Master of Computer Applications (MCA)** at **NIT Agartala** with a CGPA of 7.48/10.00.
-- 🎓 Completed **Bachelor of Computer Applications** from **University of Rajasthan**.
+- 📚 Pursuing **Master of Computer Applications (MCA)** at **NIT Agartala**
 
 <!-- Projects -->
 <h2 align="center">💻 Projects</h2>
