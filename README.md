@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7A400&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+Enthusiast;Automation+Lover" alt="Typing SVG" />
 </p>
 
-<!-- Wave Animation -->
+<!-- Unique Wave Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/akshat46/FlyingFox/master/assets/wave.svg" alt="wave" width="100%" />
 </p>
@@ -23,7 +23,7 @@
 <!-- Experience Section -->
 <h2 align="center">💼 Experience</h2>
 <h3 align="center">CloudPlay Solutions | Remote | DevOps Engineer Intern (June 2024 – Sept 2024)</h3>
-<ul>
+<ul align="center">
   <li>Deployed applications on Hostinger VPS using Nginx, Docker, and MySQL.</li>
   <li>Streamlined CI/CD pipelines with Jenkins, improving release cycles.</li>
   <li>Enhanced scalability and reliability through automation and monitoring.</li>
@@ -32,7 +32,7 @@
 <!-- Projects Section -->
 <h2 align="center">💻 Projects</h2>
 <h3 align="center">Doctor On Call Application Deployment</h3>
-<ul>
+<ul align="center">
   <li>Deployed a React and Node.js application on Hostinger VPS.</li>
   <li>Configured Nginx for traffic management and Docker for containerization.</li>
   <li>Set up Jenkins for CI/CD automation, improving deployment efficiency.</li>
@@ -67,9 +67,14 @@
   </a>
 </p>
 
+<!-- Animated Skills Section -->
+<div align="center">
+  <img src="https://media.giphy.com/media/XkM2rAlwB3A1A/giphy.gif" width="200" />
+</div>
+
 <!-- Achievements Section -->
 <h2 align="center">🏆 Achievements</h2>
-<ul>
+<ul align="center">
   <li>1st Prize in Photography at an intra-college fest.</li>
   <li>Photography Team Coordinator at University Maharaja College.</li>
   <li>NSS Volunteer, engaging in community service projects.</li>
