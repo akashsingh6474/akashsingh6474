@@ -8,7 +8,7 @@
 </p>
 
 <!-- Custom Wave SVG -->
-![wave](https://raw.githubusercontent.com/akshat46/FlyingFox/master/assets/wave.svg)
+<img src="https://raw.githubusercontent.com/akshat46/FlyingFox/master/assets/wave.svg" alt="wave" width="100%" />
 
 <!-- About Me Section -->
 <h2 align="center">🚀 About Me</h2>
@@ -52,6 +52,17 @@
   </a>
 </p>
 
+<h2 align="center">Technical Skills</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" width="90"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="90"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" width="90"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" width="90"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="90"/>
+  <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" width="90"/>
+</p>
+
 <!-- GitHub Stats Section -->
 <h2 align="center">📊 GitHub Stats</h2>
 
@@ -64,7 +75,7 @@
 <h2 align="center">🔥 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=akashsingh6474&bg_color=1e1e1e&color=ffffff&line=f7a400&point=f7a400&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=akashsingh6474&bg_color=1e1e1e&color=ffffff&line=f7a400&point=f7a400&hide_border=true" alt="Contribution Graph" />
 </p>
 
 <!-- Achievements & Leadership -->
@@ -88,4 +99,4 @@
 </p>
 
 <!-- Closing Wave SVG -->
-![wave](https://raw.githubusercontent.com/akshat46/FlyingFox/master/assets/wave.svg)
+<img src="https://raw.githubusercontent.com/akshat46/FlyingFox/master/assets/wave.svg" alt="wave" width="100%" />
