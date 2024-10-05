@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A400&center=true&vCenter=true&width=440&lines=DevOps+Engineer;Cloud+Enthusiast;CI%2FCD+Pipeline+Expert;Automation+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A400&center=true&vCenter=true&width=440&lines=DevOps+Engineer;Cloud+Enthusiast;Automation+Lover" alt="Typing SVG" />
 </p>
 
 <!-- Custom Wave SVG -->
@@ -13,10 +13,10 @@
 <!-- About Me Section -->
 <h2 align="center">🚀 About Me</h2>
 
-- 💼 I'm a **DevOps Engineer** focusing on **Kubernetes**, **Jenkins**, and **CI/CD** pipelines.
+- 💼 I’m a **DevOps Engineer** with a focus on **Kubernetes**, **Jenkins**, and **CI/CD** pipelines.
 - 🔧 Passionate about **Automation**, **Cloud Technologies**, and **SRE Practices**.
-- 🌱 Currently learning about **Terraform**, **Prometheus**, and **Grafana** to enhance infrastructure management.
-- 📚 Pursuing a **Master of Computer Applications (MCA)** at **NIT Agartala**.
+- 🌱 Currently deepening my knowledge of **Terraform**, **Prometheus**, and **Grafana** for infrastructure management.
+- 📚 Pursuing a **Master of Computer Applications (MCA)** at **National Institute of Technology, Agartala**.
 
 <!-- Projects -->
 <h2 align="center">💻 Projects</h2>
@@ -30,36 +30,31 @@
 - 🎯 Deployed a **two-tier Flask application** on **AWS**, leveraging **Kubernetes** and **Docker** for orchestration.
 - 🛠 Managed CI/CD pipeline with **Jenkins** for efficient deployment and scaling.
 
-<!-- Skills Section with Icons -->
-<h2 align="center">My Skills</h2>
+<!-- Skills Section -->
+<h2 align="center">🛠 Technical Skills</h2>
 
 <p align="center">
   <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" width="90"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" width="90"/>
   </a>
   <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes" width="90"/>
+    <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" width="90"/>
   </a>
   <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" width="90"/>
+    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" width="90"/>
   </a>
   <a href="https://www.terraform.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Terraform-623ce4?style=for-the-badge&logo=terraform&logoColor=white" alt="terraform" width="90"/>
+    <img src="https://img.shields.io/badge/Terraform-623ce4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" width="90"/>
   </a>
   <a href="https://grafana.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="grafana" width="90"/>
+    <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" width="90"/>
   </a>
-</p>
-
-<h2 align="center">Technical Skills</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" width="90"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="90"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" width="90"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" width="90"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="90"/>
-  <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" width="90"/>
+  <a href="https://www.jenkins.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" width="90"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" width="90"/>
+  </a>
 </p>
 
 <!-- GitHub Stats Section -->
