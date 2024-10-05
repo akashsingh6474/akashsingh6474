@@ -13,22 +13,22 @@
 <!-- About Me Section -->
 <h2 align="center">🚀 About Me</h2>
 
-- 💼 I'm a **DevOps Engineer** working on **Kubernetes**, **Jenkins**, and **CI/CD** pipelines!
+- 💼 I'm a **DevOps Engineer** focusing on **Kubernetes**, **Jenkins**, and **CI/CD** pipelines.
 - 🔧 Passionate about **Automation**, **Cloud Technologies**, and **SRE Practices**.
-- 🌱 Always learning new technologies like **Terraform**, **Prometheus**, and **Grafana** to enhance infrastructure management.
-- 📚 Pursuing **Master of Computer Applications (MCA)** at **NIT Agartala**
+- 🌱 Currently learning about **Terraform**, **Prometheus**, and **Grafana** to enhance infrastructure management.
+- 📚 Pursuing a **Master of Computer Applications (MCA)** at **NIT Agartala**.
 
 <!-- Projects -->
 <h2 align="center">💻 Projects</h2>
 
 ### Doctor On Call Application Deployment | React, Node.js, MySQL, Docker, PM2, Nginx
-- 🛠 Deployed on Hostinger VPS with MySQL for efficient data management and Nginx as a reverse proxy.
-- 📦 Utilized Docker for containerization and Jenkins for CI/CD automation.
-- ⚙️ Implemented PM2 for process management, ensuring high availability and automatic restarts.
+- 🛠 Deployed on **Hostinger VPS** using **MySQL** for data management and **Nginx** as a reverse proxy.
+- 📦 Utilized **Docker** for containerization and **Jenkins** for CI/CD automation.
+- ⚙️ Implemented **PM2** for process management, ensuring high availability and automatic restarts.
 
 ### Flask Application Deployment | AWS, Kubernetes, Jenkins, Docker, MySQL
-- 🎯 Deployed a two-tier Flask application on AWS, leveraging Kubernetes and Docker for container orchestration.
-- 🛠 Managed the CI/CD pipeline with Jenkins for efficient deployment and scaling.
+- 🎯 Deployed a **two-tier Flask application** on **AWS**, leveraging **Kubernetes** and **Docker** for orchestration.
+- 🛠 Managed CI/CD pipeline with **Jenkins** for efficient deployment and scaling.
 
 <!-- Skills Section with Icons -->
 <h2 align="center">My Skills</h2>
