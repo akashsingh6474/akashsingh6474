@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/akashs01" target="blank"><img align="center" src="https://github.com/DevMadhup/DevMadhup/blob/main/twitter.gif" alt="akashs01" height="65" width="75" /></a>
+<a href="https://twitter.com/framesbyakash" target="blank"><img align="center" src="https://github.com/DevMadhup/DevMadhup/blob/main/twitter.gif" alt="akashs01" height="65" width="75" /></a>
 <a href="https://linkedin.com/in/akashs01" target="blank"><img align="center" src="https://github.com/DevMadhup/DevMadhup/blob/main/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="https://www.linkedin.com/in/akashs01" height="55" width="50" /></a>
 <a href="https://instagram.com/momentseekr" target="blank"><img align="center" src="https://github.com/DevMadhup/DevMadhup/blob/main/insta.gif" alt="momentseekr" height="75" width="80" /></a>
 </p>
