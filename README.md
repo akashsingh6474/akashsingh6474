@@ -23,11 +23,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/framesbyakash" target="blank"><img align="center" src="https://github.com/DevMadhup/DevMadhup/blob/main/twitter.gif" alt="akashs01" height="65" width="75" /></a>
+<a href="https://twitter.com/framesbyakash__" target="blank"><img align="center" src="https://github.com/DevMadhup/DevMadhup/blob/main/twitter.gif" alt="akashs01" height="65" width="75" /></a>
 <a href="https://linkedin.com/in/akashs01" target="blank"><img align="center" src="https://github.com/DevMadhup/DevMadhup/blob/main/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="https://www.linkedin.com/in/akashs01" height="55" width="50" /></a>
 <a href="https://instagram.com/momentseekr" target="blank"><img align="center" src="https://github.com/DevMadhup/DevMadhup/blob/main/insta.gif" alt="momentseekr" height="75" width="80" /></a>
 </p>
-
+<a href="https://threads.com/momentseekr" target="blank"><img align="center" src="https://github.com/DevMadhup/DevMadhup/blob/main/threads.gif" alt="momentseekr" height="75" width="80" /></a>
+</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://github.com/DevMadhup/DevMadhup/blob/main/aws.gif" alt="aws" width="60" height="55"/> </a> 
