@@ -1,5 +1,3 @@
-
-```markdown
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Akash+Singh!;+A+DevOps/SRE+Engineer!" />
 </h1>
@@ -56,4 +54,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=akashsingh6474&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashsingh6474&" alt="akashsingh6474" /></p>
-```
