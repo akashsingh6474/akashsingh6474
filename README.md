@@ -13,7 +13,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 I’m currently working on **DevOps automation and cloud solutions**
+- 🔭 I’m currently working at **[CloudPlaySolutions](https://cloudplaysolutions.in)** on **DevOps automation and cloud solutions**
 
 - 📝 I regularly write articles on [Hashnode](https://hashnode.com/@Akash-DevOps)
 
@@ -23,22 +23,23 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/akashs01" target="blank"><img align="center" src="https://github.com/DevMadhup/DevMadhup/blob/main/twitter.gif" alt="framesbyakash" height="65" width="75" /></a>
-<a href="https://linkedin.com/in/akashs01" target="blank"><img align="center" src="https://github.com/DevMadhup/DevMadhup/blob/main/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="https://www.linkedin.com/in/akashs01" height="55" width="50" /></a>
-<a href="https://instagram.com/momentseekr" target="blank"><img align="center" src="https://github.com/DevMadhup/DevMadhup/blob/main/insta.gif" alt="momentseekr" height="75" width="80" /></a>
+<a href="https://twitter.com/framesbyakash" target="blank"><img align="center" src="https://github.com/Akash Singh/blob/main/twitter.gif" alt="framesbyakash" height="65" width="75" /></a>
+<a href="https://linkedin.com/in/akashs01" target="blank"><img align="center" src="https://github.com/Akash Singh/blob/main/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="https://www.linkedin.com/in/akashs01" height="55" width="50" /></a>
+<a href="https://instagram.com/momentseekr" target="blank"><img align="center" src="https://github.com/Akash Singh/Akash Singh/blob/main/insta.gif" alt="momentseekr" height="75" width="80" /></a>
+<a href="https://www.threads.net/momentseekr" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Threads_logo.svg/2048px-Threads_logo.svg.png" alt="momentseekr" height="55" width="55" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://github.com/DevMadhup/DevMadhup/blob/main/aws.gif" alt="aws" width="60" height="55"/> </a> 
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Akash Singh/Akash Singh/blob/main/aws.gif" alt="aws" width="60" height="55"/> </a> 
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="60" height="55"/> </a> 
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="55" height="55"/> </a> 
     <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="45" height="55"/> </a> 
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/DevMadhup/DevMadhup/blob/main/whale-docker.gif" alt="docker" width="55" height="55"/> </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/DevMadhup/DevMadhup/blob/main/git.gif" alt="git" width="80" height="55"/> </a> 
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Akash singh/Akash Singh/blob/main/whale-docker.gif" alt="docker" width="55" height="55"/> </a> 
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Akash Singh//blob/main/git.gif" alt="git" width="80" height="55"/> </a> 
     <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="55" height="65"/> </a> 
-    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://github.com/DevMadhup/DevMadhup/blob/main/jenkins.gif" alt="jenkins" width="75" height="55"/> </a> 
-    <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://github.com/DevMadhup/DevMadhup/blob/main/kuber.gif" alt="kubernetes" width="55" height="55"/> </a> 
+    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://github.com/Akash Singh/Akash Singh/blob/main/jenkins.gif" alt="jenkins" width="75" height="55"/> </a> 
+    <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://github.com/Akash Singh/blob/main/kuber.gif" alt="kubernetes" width="55" height="55"/> </a> 
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="55" height="55"/> </a>
     <a href="https://prometheus.io/" target="_blank" >
         <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="55" />
