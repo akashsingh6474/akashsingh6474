@@ -13,7 +13,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 I’m currently working on **DevOps automation and cloud solutions**
+- 🔭 I’m currently working on **DevOps automation and cloud solutions** at [Cloudplay Solutions](https://cloudplaysolutions.in)
 
 - 📝 I regularly write articles on [Hashnode](https://hashnode.com/@Akash-DevOps)
 
