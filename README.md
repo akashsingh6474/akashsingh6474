@@ -14,23 +14,20 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🔭 I’m currently working on **DevOps automation and cloud solutions**
-
 - 📝 I regularly write articles on [Hashnode](https://hashnode.com/@Akash-DevOps)
-
 - 💬 Ask me about **DevOps, AWS, Azure, and cloud technologies**
-
-- 📫 How to reach me: **akashsingh6474@gmail.com**
+- 📫 How to reach me: **[akashsingh6474@gmail.com](mailto:akashsingh6474@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://twitter.com/framesbyakash" target="_blank">
-        <img align="center" src="https://github.com/AkashSingh/blob/main/twitter.gif" alt="akashsingh6474" height="65" width="75" />
+        <img align="center" src="https://github.com/AkashSingh/blob/main/twitter.gif" alt="Twitter" height="65" width="75" />
     </a>
     <a href="https://linkedin.com/in/akashs01" target="_blank">
         <img align="center" src="https://github.com/AkashSingh/blob/main/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="LinkedIn" height="55" width="50" />
     </a>
     <a href="https://instagram.com/momentseekr" target="_blank">
-        <img align="center" src="https://github.com/AkashSingh/AkashSingh/blob/main/insta.gif" alt="momentseekr" height="75" width="80" />
+        <img align="center" src="https://github.com/AkashSingh/AkashSingh/blob/main/insta.gif" alt="Instagram" height="75" width="80" />
     </a>
 </p>
 
