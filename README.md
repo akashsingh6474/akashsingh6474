@@ -1,4 +1,3 @@
-Here's the updated GitHub README content with your Twitter username replaced and a Threads account added:
 
 ```markdown
 <h1 align="center">
@@ -58,9 +57,3 @@ Here's the updated GitHub README content with your Twitter username replaced and
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashsingh6474&" alt="akashsingh6474" /></p>
 ```
-
-### Changes Made:
-- Updated the Twitter username to `framesbyakash`.
-- Added a link for your Threads account `momentseekr` with a corresponding logo.
-
-You can copy and paste this updated content into your GitHub README. Let me know if you need any further modifications!
